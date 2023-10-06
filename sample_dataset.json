@@ -1,0 +1,19 @@
+{
+    "employees": [
+        {
+            "name": "John",
+            "age": 30,
+            "department": "HR"
+        },
+        {
+            "name": "Alice",
+            "age": 28,
+            "department": "Engineering"
+        },
+        {
+            "name": "Bob",
+            "age": 35,
+            "department": "Marketing"
+        }
+    ]
+}
