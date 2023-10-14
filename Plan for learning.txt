@@ -1,0 +1,10 @@
+Plan for learning to be better at Data Science and AI
+
+- Dealing with any type of file formats - Done
+- Sourcing and organizing data - APIs, online sources, buy data, scrap it, manually enter it, personal data
+- Visualizing data - PowerBI, Tableau, Python
+- Analysing, cleaning, preparing, modelling - Alteryx, Python boiler plate code
+- Presenting POCs (Websites) - Django 
+- Deployment, monitoring risk - Cloud provider
+- High Performance Computing
+- Automation 
